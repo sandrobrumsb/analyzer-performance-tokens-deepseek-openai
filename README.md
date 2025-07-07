@@ -1,9 +1,7 @@
-# 🤖 Anotações e Comparações de Análises de APIs DeepSeek & OpenAI.
+# 🤖 📁 Projeto: Analisador de performance de chamadas de APIs DeepSeek & OpenAI.
 ---
 
-## 📁 Projeto:
-
-### ⚖️ `analyzer_performance_tokens_deepseek_openai.py`
+### ⚖️ `Projeto que calcula e compara os custos de uma requisição entre as APIs DEEPSEEK e OPENAI.`
 
 **O que ele faz:**  
 Compara o comportamento entre as APIs da **DeepSeek** e **OpenAI**, medindo:
@@ -24,7 +22,7 @@ Siga os passos abaixo para executar qualquer um dos projetos deste repositório:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/sandrobrumsb/analyzer-performance-tokens-deepseek-openai.git
 ```
 ### 2. Instale as 📚 Bibliotecas:
 ```bash
